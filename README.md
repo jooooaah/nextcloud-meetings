@@ -24,4 +24,4 @@ Now imagine there's an app for Nextcloud that helps you make it all happen in a 
 # Annotation
 I know that this kind of meeting and logging seems a bit anachronistic in the age of agile working. But I am sure that there are many teams that still coordinate in a similar way and for whom this would be a huge relief - and perhaps also a step towards more dynamic work. 
 
-A lot of inspiration from <minutes.io> and [Humhub Meeting](https://www.humhub.com/de/marketplace/meeting/) - both are precious tools, but an integration into an environment like Nextcloud really gives the boost
+A lot of inspiration from [minutes.io](https:://minutes.io) and [Humhub Meeting](https://www.humhub.com/de/marketplace/meeting/) - both are precious tools, but an integration into an environment like Nextcloud really gives the boost
